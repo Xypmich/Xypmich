@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Xypmich (it`s russian word, reading like Hoormich)
+- 👀 I’m interested in programming, marketing, games and other intersting stuff, like design, video editing, etc.
+- 🌱 I’m currently learning at Fullstack Python developer
